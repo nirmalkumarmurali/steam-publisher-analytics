@@ -206,3 +206,6 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 .ipynb_checkpoints/ 
+publisher_stats.csv 
+developer_stats.csv 
+steam_cleaned.csv 
